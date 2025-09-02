@@ -8,9 +8,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Things I like about CS 193
 
--The TA's are super friendly
--I think I will learn a lot from this course
--The Ed discussion seems to be very active :)
+- The TA's are super friendly
+- I think I will learn a lot from this course
+- The Ed discussion seems to be very active :)
 
 **IGNORE CODE SNIPPET**
 ```markdown

@@ -12,10 +12,7 @@ Things I like about CS 193
 -I think I will learn a lot from this course
 -The Ed discussion seems to be very active :)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-Hello, I am just testing out random stuff     **lol**
-
+**IGNORE CODE SNIPPET**
 ```markdown
 Syntax highlighted code block
 
@@ -33,7 +30,6 @@ yooooo
 
 [Link](url) and ![Image](src)
 ```
-whats uppppp
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
